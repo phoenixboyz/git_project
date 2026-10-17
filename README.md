@@ -12,4 +12,3 @@
 ## 9. (git checkout your_branch_name) help to move to another branch "folder within git"
 ## 10. (git branch -D your_branch_name) helps to delete a branch "folder within git"
 ## 11. (git merge the_branch_you_want_to_copy_your_update_from) helps to copy update from 1 branch to another, before you do git merge or before you merge something into another branch, make sure that you do git status, if there is an untracked progress commit them before you merge your update, lastly before you merge also ensure that you are at the branch that needs the update, you must NOT be in the branch that has the update, you should be in the  branch that needs the update so that when you merge it will be available.
-
