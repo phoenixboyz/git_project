@@ -7,3 +7,7 @@
 ## 4. (git push) helps to upload our project to github, it also helps to upload updates that we have maede to github as well.
 ## 5. (git clone project_ssh_url) helps to download a project from github.
 ## 6. (git pull) helps to pull/get updates from a collaborator or a fellow developer.
+## 7. (git branch your_branch_name) helps to create a new branch "folder within git"
+## 8. (git branch) helps to check the current branch that we are on, if you see an * and a green text then that is the current branch that you are on.
+## 9. (git checkout your_branch_name) help to move to another branch "folder within git"
+## 10. (git branch -D your_branch_name) helps to delete a branch "folder within git"
