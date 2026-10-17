@@ -11,3 +11,4 @@
 ## 8. (git branch) helps to check the current branch that we are on, if you see an * and a green text then that is the current branch that you are on.
 ## 9. (git checkout your_branch_name) help to move to another branch "folder within git"
 ## 10. (git branch -D your_branch_name) helps to delete a branch "folder within git"
+## 11. (git merge the_branch_you_want_to_copy_your_update_from) helps to copy update from 1 branch to another
