@@ -1,0 +1,25 @@
+<!Doctype html>
+  <html>
+    <head>
+      <title>CSS</title>
+      
+      <!--- External styling --->
+      <link rel="stylesheet" href="./style.css" />
+      
+       <!--- Styling with style tag --->
+      <style>
+        h1 {
+          color: blue;
+        }
+      </style>
+    </head>
+    
+    <body>
+      <p>Hello!!!</p>
+      <h1>This is an H1</h1>
+      
+       <!--- Inline styling --->
+      <p style="color: orange;">Inline style</p>
+    </body>
+  </html>
+  
