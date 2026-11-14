@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Media Tag</title>
+    </head>
+
+    <body>
+        <!-- Media Tag -->
+
+        <!-- Image Tag -->
+       
+        <center>
+            <!-- Image tag with a local image file (image from the local machine) -->
+            <img src="./gakpo.png" alt="An image of Gakpo" width="200" height="200" />
+
+            <!--Image tag with a remote image file (image from the web/internet)-->
+            <img
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQteRdvuyZsi3sGlS_HMBH0Ua3kFzV_7QYcU1mKHfximg&s=10"
+                alt="An image of Gakpo"
+                width="200"
+                height="200"
+            />
+        </center>
+
+        <!-- Video Tag -->
+
+         <center>
+            
+            <!-- Video tag with a local video file (video from the local machine) -->
+             <video controls loop autoplay muted width="500" height="500">
+                <source src="./video.mp4" type="video/mp4">
+                Your browser does not support the video element.
+             </video>   
+
+            <!-- Video tag with a remote video file (video from the web/internet) -->
+             <video controls loop autoplay muted width="500" height="500">
+                <source src="https://www.w3schools.com/html/movie.mp4" type="video/mp4">
+                Your browser does not support the video element.
+             </video>
+         </center>
+
+         <!-- Audio Tag -->
+         <center>
+            <!-- Audio tag with a local audio file (audio from the local machine) -->
+            <audio controls loop autoplay muted>
+                <source src="./audio.mp3" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+
+            <!-- Audio tag with a remote audio file (audio from the web/internet) -->
+            <audio controls loop autoplay muted>
+                <source src="https://www.w3schools.com/html/horse.ogg" type="audio/mp3">
+                Your browser does not support the audio element.
+            </audio>
+         </center>
+
+    </body>
+</html>
