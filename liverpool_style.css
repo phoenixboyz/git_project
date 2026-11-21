@@ -1,0 +1,15 @@
+div {
+    font-size: 25px;
+    width: auto;
+    height: auto;
+    background-color: blanchedalmond;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+}

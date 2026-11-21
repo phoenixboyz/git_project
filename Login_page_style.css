@@ -1,0 +1,35 @@
+div {
+    width: 300px;
+    height: 400px;
+    background-color: #0f053b;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgb(65, 232, 218);
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    color: rgb(65, 232, 218);
+    text-align: center;
+}
+form {
+    text-align: center;
+    color: rgb(65, 232, 218);
+}
+input[type=text] {
+  width: 200px;
+  height: 30px;
+}
+input[type=password] {
+  width: 200px;
+  height: 30px;
+}
+button {
+  background: rgb(136, 74, 16);
+  color: black;
+  width: 100px;
+  height: 30px;
+}
