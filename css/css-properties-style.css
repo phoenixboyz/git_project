@@ -1,0 +1,84 @@
+#text {
+  color: green;
+}
+
+#div_display {
+  width: 200px;
+  height: 200px;
+  background: skyblue;
+}
+
+#div_display_text, #border_display_text {
+  color: black;
+}
+
+#border_display {
+  width: 200px;
+  height: 200px;
+  border: 10px solid black;
+}
+
+.margin_spacing {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 100px;
+}
+
+#padding_spacing {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  background: red;
+}
+
+#text_alignment {
+  text-align: right;
+}
+
+#text_decoration_underline {
+  text-decoration: underline;
+}
+
+.text_decoration_line_through {
+  text-decoration: line-through;
+}
+
+#old_price {
+  color: gray;
+  font-style: italic;
+}
+
+#new_price {
+  color: black;
+  font-weight: bold;
+}
+
+#text_decoration_overline {
+  text-decoration: overline;
+}
+
+#display_element {
+  display: none;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background: red;
+}
+
+.border_radius_default {
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+
+#border_radius_1 {
+  border-radius: 20px;
+}
+
+#border_radius_full_circle {
+  border-radius: 50%;
+  margin-top: 30px;
+}
